@@ -1,0 +1,4 @@
+input  output
+5      Level of education: Primary level education
+10     Level of education: Secondary level education
+16     Level of education: Tertiary level education
