@@ -1,0 +1,4 @@
+input   output
+0       0 degrees Celsius is 32 degrees Fahrenheit
+-40     -40 degrees Celsius is -40 degrees Fahrenheit
+10      10 degrees Celsius is 50 degrees Fahrenheit
